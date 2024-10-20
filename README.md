@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Miquella!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=29&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Miquella%21" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -53,7 +51,7 @@
 </p>
 
 <div align="center" style="max-width: 800px; margin: auto;">
-  ### 🌟 Main Quest: CharaChat AI
+  <h3>🌟 Main Quest: CharaChat AI</h3>
   <p>
     <strong>Objective:</strong> Make an AI-powered character chat system and create multiple virtual worlds.
   </p>
@@ -61,9 +59,9 @@
     <strong>Progress:</strong> 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ 50%
   </p>
   
-  ### 🧙‍♂️ Side Quests
+  <h3>🧙‍♂️ Side Quests</h3>
   
-  #### 1. React Mastery
+  <h4>1. React Mastery</h4>
   <p>
     <strong>Objective:</strong> Master React for web development
   </p>
@@ -71,7 +69,7 @@
     <strong>Progress:</strong> 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%
   </p>
   
-  #### 2. UE5 Mastery
+  <h4>2. UE5 Mastery</h4>
   <p>
     <strong>Objective:</strong> Create interesting games
   </p>
@@ -79,6 +77,7 @@
     <strong>Progress:</strong> 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 25%
   </p>
 </div>
+
 
 <hr>
 
